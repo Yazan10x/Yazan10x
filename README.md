@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yazan Armoush</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-- 🔭 I’m currently working on [Smart Qr App](https://texttoqrocde.com)
-
-- 🌱 I’m currently learning **Actix, Role Based Authorization**
-
-- 👯 I’m looking to collaborate on [UofT's Software Engineering Club Site](https://site.usec.club)
-
-- 🤝 I’m looking for help with **Backend Infrastructure**
-
-- 👨‍💻 A few of my projects are available at [https://armoush.com](https://armoush.com)
-
-- 💬 Ask me about **Project Ideas**
-
-- 📫 How to reach me **https://linktr.ee/yazanarmoush**
-
-- 📄 Know about my experiences [https://armoush.com/images/YazanResume.pdf](https://armoush.com/images/YazanResume.pdf)
+- 🎓 Graduating this coming year from the University of Toronto with a BSc in Computer Science
+- 🔭 I’m currently building Smart QR App: https://texttoqrcode.com  
+- 🌱 Learning Actix and diving deeper into role-based authorization  
+- 👯 Collaborating on UofT’s Software Engineering Club
+- 🤝 Open to help with backend infrastructure challenges  
+- 👨‍💻 Check out some of my work at: https://armoush.com  
+- 💬 Happy to chat about project ideas  
+- 📫 Reach me at: https://linktr.ee/yazanarmoush  
+- 📄 View my resume here: https://armoush.com/images/YazanResume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
