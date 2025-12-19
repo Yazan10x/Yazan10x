@@ -11,6 +11,7 @@
 
 - 🎓 Final-year BSc at the University of Toronto in **Computer Science and Applied Statistics**
 - 🧠 Built **[CasPrep](https://casprep.net)**, an AI-powered CASPer prep platform used by **5,000+ students**
+- Built **Note Polisher** (open source): https://github.com/Yazan10x/note-polish — uses the latest Image Gen models to turn messy notes into clean, readable study sheets
 - 🧩 Built **[texttoqrcode.com](https://texttoqrcode.com)**, a tiny utility that turns any text into a clean QR code in seconds
 - 🛠 Enjoy working on **backend infrastructure**, **APIs**, **auth**, and making complex systems feel simple
 - 🌱 Currently working on **applied AI and agentic AI for software engineering**
@@ -27,6 +28,11 @@
 - Production web app used by **5,000+ students** preparing for the CASPer test  
 - Stack: **React**, **TypeScript**, **Flask**, **MongoDB**, **AWS S3**, **Stripe**, **OpenAI**  
 - Built video scenario practice, AI scoring, dashboards, and payments
+
+#### 📝 Note Polisher
+- Open source tool that turns messy notes into clean, readable study sheets using the latest Image Gen models  
+- Stack: **Next.js**, **TypeScript**, **Tailwind**, **MongoDB**, **OpenAI**  
+- Repo: https://github.com/Yazan10x/note-polish
 
 #### 🔳 texttoqrcode.com
 - Simple **text → QR** generator with a clean UX  
