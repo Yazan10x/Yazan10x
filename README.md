@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yazan Armoush</h1>
-<h3 align="center">Software Engineer · Builder of real-world products · United States · Canada</h3>
+<h3 align="center">Software Engineer · Building real-world products · United States · Canada</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=I+code+in+Rust%2C+TypeScript%2C+and+Python;I+build+products+like+CasPrep+used+by+thousands;I+am+graduating+from+UofT+in+Computer+Science+and+Applied+Statistics;I+build+open-source+projects+like+texttoqrcode.com" alt="Typing SVG" />
